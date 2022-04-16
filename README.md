@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DohaYehia
+- 👀 I’m interested in .Machine Learning and Artificial intelligence.
+- 🌱 I’m currently learning AI in ITI.
+- 💞️ I’m looking to make more projects in machine learining.
+- 📫 How to reach me dohayehia666@gmail.com
